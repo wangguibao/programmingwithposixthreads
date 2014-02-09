@@ -15,4 +15,5 @@ section 3.2.1 - mutex_dynamic.c<br />
 section 3.2.2 - alarm_mutex.c<br />
 section 3.2.2.1 - trylock.c<br />
 Section 3.2.5.1 - backoff.c<br />
-  
+Section 3.3.1 - cond_dynamic.c <br />
+Section 3.3.1 - cond_static.c <br />
