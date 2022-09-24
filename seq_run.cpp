@@ -1,4 +1,4 @@
- * seq_print.c
+ * seq_run.cpp
  * @author wangguibao (wang_guibao@163.com)
  *
  * @brief Make threads run in order
